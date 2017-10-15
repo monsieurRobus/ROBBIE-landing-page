@@ -1,6 +1,27 @@
-body {
-  margin: 0;
-  background-color: #123423;
+html {
+  font-family: 'Quicksand', sans-serif;
+  font-size:4em;
 }
- d
- d
+body {
+  width:100%;
+}
+
+section>img,#cuenta-atras {
+  text-align: center;
+  width: 25%;
+  display:block;
+  margin: auto;
+  padding: 0 0;
+}
+section>#cuenta-atras{
+  width: 100%;
+}
+span.tag{
+  font-size:0.6em;
+  color:grey;
+  transform: translate(-100px,0);
+}
+
+h1 {
+  color: red;
+}
